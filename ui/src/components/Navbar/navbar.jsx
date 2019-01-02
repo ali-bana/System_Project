@@ -10,7 +10,7 @@ export default class NavBar extends Component {
     const { activeItem } = this.state;
 
     return (
-      <Menu>
+      <Menu style={{ backgroundColor: "#C0C0C0" }}>
         <Menu.Item
           name="browse"
           active={activeItem === "browse"}
