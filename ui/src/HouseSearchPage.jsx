@@ -14,7 +14,7 @@ class HouseSearchPage extends Component {
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center center",
-          height: 840,
+          backgroundAttachment: "fixed",
           backgroundPosition: "fixed"
         }}
       >
