@@ -14,7 +14,8 @@ class HouseSearchPage extends Component {
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center center",
-          height: 840
+          height: 840,
+          backgroundPosition: "fixed"
         }}
       >
         <NavBar />
